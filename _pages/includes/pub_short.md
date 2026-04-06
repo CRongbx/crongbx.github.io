@@ -23,15 +23,24 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
   </div>
 </div>
 
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <img src='images/Paralledge.png' alt="sym" width="50%"><img src='images/ArchParalledge.png' alt="sym" width="50%">
-    </div>
-    <div class='paper-box-text' markdown="1">
-    `TMC 2023`[ParallEdge: Exploiting computing-mobility parallelism for efficient 5G/6G edge computing](https://ieeexplore.ieee.org/document/10146480/) \\
-      **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
-    </div>
+<div class='paper-box'>
+  <!-- 图片部分 -->
+  <div class='paper-box-image'>
+    <img src='images/Paralledge.png' alt="ParallEdge" width="50%">
+    <img src='images/ArchParalledge.png' alt="ArchParallEdge" width="50%">
   </div>
+  
+  <!-- 论文基本信息部分 -->
+  <div class='paper-box-text'>
+    <p><span class="conference-name">TMC 2023</span></p>
+    <p>
+      <a href="https://ieeexplore.ieee.org/document/10146480/" class="paper-link">
+        ParallEdge: Exploiting computing-mobility parallelism for efficient 5G/6G edge computing
+      </a>
+    </p>
+    <p><strong>Rong Cong</strong>, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*</p>
+  </div>
+</div>
 
   * `SECON 2022` [CoopEdge: Cost-effective Server Deployment for Cooperative Multi-access Edge Computing](https://ieeexplore.ieee.org/document/9918592/), **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
 
@@ -39,15 +48,23 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 
 #### Edge Network Management
 
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <img src='images/tasp.png' alt="sym" width="100%">
-    </div>
-    <div class='paper-box-text' markdown="1">
-    `TPDS 2025`[Task-Aware Service Placement for Distributed Learning in Wireless Edge Networks](https://ieeexplore.ieee.org/document/10879334/) \\
-    **Rong Cong**, Zhiwei Zhao*, Wang Mengfan, Geyong Min, Liu Jiangshu, Mo Jiwei.
-    </div>
+<div class='paper-box'>
+  <!-- 图片部分 -->
+  <div class='paper-box-image'>
+    <img src='images/tasp.png' alt="TASP" width="100%">
   </div>
+  
+  <!-- 论文基本信息部分 -->
+  <div class='paper-box-text'>
+    <p><span class="conference-name">TPDS 2025</span></p>
+    <p>
+      <a href="https://ieeexplore.ieee.org/document/10879334/" class="paper-link">
+        Task-Aware Service Placement for Distributed Learning in Wireless Edge Networks
+      </a>
+    </p>
+    <p><strong>Rong Cong</strong>, Zhiwei Zhao*, Wang Mengfan, Geyong Min, Liu Jiangshu, Mo Jiwei</p>
+  </div>
+</div>
 
   * `IoTJ 2021` [EdgeGO: A mobile resource-sharing framework for 6G edge computing in massive IoT systems](https://ieeexplore.ieee.org/document/9375469/), **Rong Cong**, Zhiwei Zhao*, Geyong Min*, Chenyuan Feng, Yuhong Jiang.
 
@@ -57,15 +74,23 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 
 #### Intelligent Video and IoT Application at Edge
 
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <img src='images/kite.png' alt="sym" width="100%">
-    </div>
-    <div class='paper-box-text' markdown="1">
-    `TMC 2025`[Kite: Link-Adaptive and Real-Time Object Detection in Dynamic Edge Networks](https://ieeexplore.ieee.org/document/10660521/) \\
-    **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
-    </div>
+<div class='paper-box'>
+  <!-- 图片部分 -->
+  <div class='paper-box-image'>
+    <img src='images/kite.png' alt="Kite" width="100%">
   </div>
+  
+  <!-- 论文基本信息部分 -->
+  <div class='paper-box-text'>
+    <p><span class="conference-name">TMC 2025</span></p>
+    <p>
+      <a href="https://ieeexplore.ieee.org/document/10660521/" class="paper-link">
+        Kite: Link-Adaptive and Real-Time Object Detection in Dynamic Edge Networks
+      </a>
+    </p>
+    <p><strong>Rong Cong</strong>, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*</p>
+  </div>
+</div>
 
   * `MSN 2025` [ConaVSR: A Content-aware and Adaptive Super-resolution for energy-effective Video Surveillance](https://www.computer.org/csdl/proceedings-article/msn/2025/618000a054/2disJMbnKBq), Shuhong Zhang, Linqi Liu, Xinyan Wang, **Rong Cong***, Zhiwei Zhao.
 
