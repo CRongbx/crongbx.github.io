@@ -1,5 +1,9 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
+- 2025.11: 🎉 Two papers about edge-assisted real-time video analytics are  accepted by MSN 2025 and EUC 2026!
+- 2025.08: 🎉 Two papers about edge-assisted video analytics are accepted by TMC 2025 and ICC 2025!
+- 2025.06: 🌟 Recognized as Outstanding Graduate Student of Sichuan Province.
+- 2025.03: 🎉 Paper about service placement in edge networks is accepted by TPDS 2025!
+- 2025.01: 🌟 Awarded CAST Young Elite Scientists Sponsorship - The Doctoral Student Special Program!
+- 2024.10: 🎉 Two papers about edge server deployment are accepted by TPDS and ISPA!
+- 2023.12: 🔥 Best Paper Award for paper on energy-efficient reprogramming for smart LoRaWAN at UIC 2023!
+- 2022.08: 🎉 Paper on cost-effective server deployment in edge computing is featured at SECON 2022!
