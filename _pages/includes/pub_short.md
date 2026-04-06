@@ -1,26 +1,20 @@
 # 📝 Publications 
 
-## Selected Papers
-
-#### Edge Infrastructure Deployment
-
-
-
-#### Edge Network Management
-
-
-## Research Topics
-
 My full paper list is shown at [my google scholar](https://scholar.google.com/citations?user=15DcLg0AAAAJ).
 
 
 #### Edge Infrastructure Deployment
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2023</div><img src='images/Paralledge.png' alt="ParallEdge" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  [ParallEdge: Exploiting computing-mobility parallelism for efficient 5G/6G edge computing](https://ieeexplore.ieee.org/document/10146480/) \\
-  **Rong Cong**, Zhiwei Zhao\*, Linyuanqi Zhang, Geyong Min\*
-  </div>
+  <div class='paper-box'>
+    <div class='paper-box-image'>
+      <div class="badge"></div>
+      <img src='images/Paralledge.png' alt="ParallEdge" width="100%"></div>
+    </div>
+      <div class='paper-box-text' markdown="1">
+      <p><span class="conference-name">TMC 2023</span></p>
+      <p><a href="https://ieeexplore.ieee.org/document/10146480/">ParallEdge: Exploiting computing-mobility parallelism for efficient 5G/6G edge computing</a></p>
+      <p><strong>Rong Cong</strong>, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*</p>
+      </div>
   </div>
 
   * `TPDS 2024` [Cost-effective server deployment for multi-access edge networks: a cooperative scheme](https://ieeexplore.ieee.org/document/10596090/), **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
