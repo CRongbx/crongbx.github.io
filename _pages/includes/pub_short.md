@@ -13,7 +13,7 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
   
   <!-- 论文基本信息部分 -->
   <div class='paper-box-text'>
-    <p><span class="conference-name">TPDS 2024</span></p>
+    <p><span class="conference-name">`TPDS 2024`</span></p>
     <p>
       <a href="https://ieeexplore.ieee.org/document/10596090/" class="paper-link">
         Cost-effective server deployment for multi-access edge networks: a cooperative scheme
@@ -32,7 +32,7 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
   
   <!-- 论文基本信息部分 -->
   <div class='paper-box-text'>
-    <p><span class="conference-name">TMC 2023</span></p>
+    <p><span class="conference-name">`TMC 2023`</span></p>
     <p>
       <a href="https://ieeexplore.ieee.org/document/10146480/" class="paper-link">
         ParallEdge: Exploiting computing-mobility parallelism for efficient 5G/6G edge computing
@@ -56,7 +56,7 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
   
   <!-- 论文基本信息部分 -->
   <div class='paper-box-text'>
-    <p><span class="conference-name">TPDS 2025</span></p>
+    <p><span class="conference-name">`TPDS 2025`</span></p>
     <p>
       <a href="https://ieeexplore.ieee.org/document/10879334/" class="paper-link">
         Task-Aware Service Placement for Distributed Learning in Wireless Edge Networks
@@ -82,7 +82,7 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
   
   <!-- 论文基本信息部分 -->
   <div class='paper-box-text'>
-    <p><span class="conference-name">TMC 2025</span></p>
+    <p><span class="conference-name">`TMC 2025`</span></p>
     <p>
       <a href="https://ieeexplore.ieee.org/document/10660521/" class="paper-link">
         Kite: Link-Adaptive and Real-Time Object Detection in Dynamic Edge Networks
