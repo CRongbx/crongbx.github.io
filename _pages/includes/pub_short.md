@@ -13,10 +13,10 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
   
   <!-- 论文基本信息部分 -->
   <div class='paper-box-text'>
-    <p><span class="conference-name"></span></p>
+    <p><span class="conference-name">TPDS 2024</span></p>
     <p>
       <a href="https://ieeexplore.ieee.org/document/10596090/" class="paper-link">
-       `TPDS 2024` Cost-effective server deployment for multi-access edge networks: a cooperative scheme
+       Cost-effective server deployment for multi-access edge networks: a cooperative scheme
       </a>
     </p>
     <p><strong>Rong Cong</strong>, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*</p>
@@ -32,10 +32,10 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
   
   <!-- 论文基本信息部分 -->
   <div class='paper-box-text'>
-    <p><span class="conference-name"></span></p>
+    <p><span class="conference-name">TMC 2023</span></p>
     <p>
       <a href="https://ieeexplore.ieee.org/document/10146480/" class="paper-link">
-       `TMC 2023` ParallEdge: Exploiting computing-mobility parallelism for efficient 5G/6G edge computing
+       ParallEdge: Exploiting computing-mobility parallelism for efficient 5G/6G edge computing
       </a>
     </p>
     <p><strong>Rong Cong</strong>, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*</p>
@@ -56,10 +56,10 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
   
   <!-- 论文基本信息部分 -->
   <div class='paper-box-text'>
-    <p><span class="conference-name"></span></p>
+    <p><span class="conference-name"></span>TPDS 2025</p>
     <p>
       <a href="https://ieeexplore.ieee.org/document/10879334/" class="paper-link">
-       `TPDS 2025` Task-Aware Service Placement for Distributed Learning in Wireless Edge Networks
+       Task-Aware Service Placement for Distributed Learning in Wireless Edge Networks
       </a>
     </p>
     <p><strong>Rong Cong</strong>, Zhiwei Zhao*, Wang Mengfan, Geyong Min, Liu Jiangshu, Mo Jiwei</p>
@@ -82,10 +82,10 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
   
   <!-- 论文基本信息部分 -->
   <div class='paper-box-text'>
-    <p><span class="conference-name"></span></p>
+    <p><span class="conference-name"></span>TMC 2025</p>
     <p>
       <a href="https://ieeexplore.ieee.org/document/10660521/" class="paper-link">
-       `TMC 2025` Kite: Link-Adaptive and Real-Time Object Detection in Dynamic Edge Networks
+       Kite: Link-Adaptive and Real-Time Object Detection in Dynamic Edge Networks
       </a>
     </p>
     <p><strong>Rong Cong</strong>, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*</p>
