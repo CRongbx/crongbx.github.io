@@ -4,8 +4,23 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 
 
 #### Edge Infrastructure Deployment
-  <img src='images/CoopEdge.png' alt="sym" width="90%">
-  * `TPDS 2024` [Cost-effective server deployment for multi-access edge networks: a cooperative scheme](https://ieeexplore.ieee.org/document/10596090/), **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
+  <div class="paper-box">
+  <!-- 图片部分 -->
+  <div class="paper-box-image">
+    <img src="images/CoopEdge.png" alt="CoopEdge" class="paper-image">
+  </div>
+  
+  <!-- 论文基本信息部分 -->
+  <div class="paper-box-text" markdown="1">
+    <p class="conference-info"><span class="conference-name">TPDS 2024</span></p>
+    <p>
+      <a href="https://ieeexplore.ieee.org/document/10596090/" class="paper-link">
+        Cost-effective server deployment for multi-access edge networks: a cooperative scheme
+      </a>
+    </p>
+    <p class="author-info"><strong>Rong Cong</strong>, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*</p>
+  </div>
+</div>
 
   <img src='images/Paralledge.png' alt="sym" width="45%"><img src='images/ArchParalledge.png' alt="sym" width="45%">
   * `TMC 2023` [ParallEdge: Exploiting computing-mobility parallelism for efficient 5G/6G edge computing](https://ieeexplore.ieee.org/document/10146480/), **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
