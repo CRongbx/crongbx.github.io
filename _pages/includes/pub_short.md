@@ -14,7 +14,7 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
     </div>
   </div>
 
-  <div class='paper-box'>
+  <!-- <div class='paper-box'>
     <div class='paper-box-image'>
       <img src='images/Paralledge.png' alt="sym" width="50%"><img src='images/ArchParalledge.png' alt="sym" width="50%">
     </div>
@@ -22,7 +22,7 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
     `TMC 2023`[ParallEdge: Exploiting computing-mobility parallelism for efficient 5G/6G edge computing](https://ieeexplore.ieee.org/document/10146480/) \\
       **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
     </div>
-  </div>
+  </div> -->
 
   * `SECON 2022` [CoopEdge: Cost-effective Server Deployment for Cooperative Multi-access Edge Computing](https://ieeexplore.ieee.org/document/9918592/), **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
 
