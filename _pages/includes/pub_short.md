@@ -4,16 +4,7 @@
 
 #### Edge Infrastructure Deployment
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2023</div><img src='images/Paralledge.pdf' alt="ParallEdge" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[ParallEdge: Exploiting computing-mobility parallelism for efficient 5G/6G edge computing](https://ieeexplore.ieee.org/document/10146480/) \\
-**Rong Cong**, Zhiwei Zhao\*, Linyuanqi Zhang, Geyong Min\*
-
-- ParallEdge is a framework that exploits computing-mobility parallelism to improve the efficiency of edge computing in 5G/6G environments.
-- It introduces the **move while processing** paradigm, enabling service execution to proceed in parallel with user mobility rather than waiting for movement or migration to finish first.
-</div>
-</div>
 
 #### Edge Network Management
 
@@ -29,6 +20,14 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 
   * `TMC 2023` [ParallEdge: Exploiting computing-mobility parallelism for efficient 5G/6G edge computing](https://ieeexplore.ieee.org/document/10146480/), **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2023</div><img src='images/Paralledge.pdf' alt="ParallEdge" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [ParallEdge: Exploiting computing-mobility parallelism for efficient 5G/6G edge computing](https://ieeexplore.ieee.org/document/10146480/) \\
+  **Rong Cong**, Zhiwei Zhao\*, Linyuanqi Zhang, Geyong Min\*
+
+  </div>
+  </div>
   * `SECON 2022` [CoopEdge: Cost-effective Server Deployment for Cooperative Multi-access Edge Computing](https://ieeexplore.ieee.org/document/9918592/), **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
 
 
