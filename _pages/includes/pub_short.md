@@ -4,14 +4,13 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 
 
 #### Edge Infrastructure Deployment
-
+  <img src='images/CoopEdge.png' alt="sym" width="90%">
   * `TPDS 2024` [Cost-effective server deployment for multi-access edge networks: a cooperative scheme](https://ieeexplore.ieee.org/document/10596090/), **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
 
-  <img src='images/Paralledge.png' alt="sym" width="50%"></div><img src='images/ArchParalledge.png' alt="sym" width="50%"></div>
+  <img src='images/Paralledge.png' alt="sym" width="45%"><img src='images/ArchParalledge.png' alt="sym" width="45%">
   * `TMC 2023` [ParallEdge: Exploiting computing-mobility parallelism for efficient 5G/6G edge computing](https://ieeexplore.ieee.org/document/10146480/), **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
 
   * `SECON 2022` [CoopEdge: Cost-effective Server Deployment for Cooperative Multi-access Edge Computing](https://ieeexplore.ieee.org/document/9918592/), **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
-
 
   * `ISPA 2025` [Heterogeneity-Aware Server Placement for Cost and Energy Minimization in 5G/6G Edge Computing](https://ieeexplore.ieee.org/document/11245415/), Mengqi Ma, Gaojie Wu, Xianyang Xu, **Rong Cong***.
 
