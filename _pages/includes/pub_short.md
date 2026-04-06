@@ -4,15 +4,24 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 
 
 #### Edge Infrastructure Deployment
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <img src='images/CoopEdge.png' alt="sym" width="100%">
-    </div>
-    <div class='paper-box-text' markdown="1">
-    `TPDS 2024`[Cost-effective server deployment for multi-access edge networks: a cooperative scheme](https://ieeexplore.ieee.org/document/10596090/) \\
-      **Rong Cong**, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*.
-    </div>
+
+<div class='paper-box'>
+  <!-- 图片部分 -->
+  <div class='paper-box-image'>
+    <img src='images/CoopEdge.png' alt="sym" width="100%">
   </div>
+  
+  <!-- 论文基本信息部分 -->
+  <div class='paper-box-text'>
+    <p><span class="conference-name">TPDS 2024</span></p>
+    <p>
+      <a href="https://ieeexplore.ieee.org/document/10596090/" class="paper-link">
+        Cost-effective server deployment for multi-access edge networks: a cooperative scheme
+      </a>
+    </p>
+    <p><strong>Rong Cong</strong>, Zhiwei Zhao*, Linyuanqi Zhang, Geyong Min*</p>
+  </div>
+</div>
 
   <div class='paper-box'>
     <div class='paper-box-image'>
